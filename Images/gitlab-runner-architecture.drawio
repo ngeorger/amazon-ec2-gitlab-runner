@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T13:25:38.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Pgx5Jg_4a48sQOm02a9H" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T13:31:43.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8AVtyf8DoII4eMUX9cjh" version="21.0.6" type="github" pages="2">
   <diagram id="csgsG_PUNU3NyY4udR56" name="Gitlab Runners">
     <mxGraphModel dx="1243" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
             <mxPoint x="179" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5HLy9jikS17jzSWqyToZ-2" value="Instance Terminated" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" parent="5HLy9jikS17jzSWqyToZ-1" vertex="1">
+        <mxCell id="5HLy9jikS17jzSWqyToZ-2" value="Instancia terminada&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" parent="5HLy9jikS17jzSWqyToZ-1" vertex="1">
           <mxGeometry x="140" y="160" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="5HLy9jikS17jzSWqyToZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5HLy9jikS17jzSWqyToZ-1" source="5HLy9jikS17jzSWqyToZ-4" target="5HLy9jikS17jzSWqyToZ-5" edge="1">
