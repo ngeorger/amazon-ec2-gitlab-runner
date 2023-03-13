@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T10:18:40.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="f3EIeJVp_RECSn9NmWSn" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T10:25:47.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X1fl6wBXnpALzRoBbfKv" version="21.0.6" type="github" pages="2">
   <diagram id="csgsG_PUNU3NyY4udR56" name="Gitlab Runners">
-    <mxGraphModel dx="939" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="876" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XA439F8D82tl569IwH5M-0" />
         <mxCell id="WOPcsvirDm3JK95qN99V-2" value="Untitled Layer" parent="XA439F8D82tl569IwH5M-0" visible="0" />
