@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T12:21:27.745Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L9k1PZG6XX8bsXL0KBnJ" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-17T13:26:54.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GpgzmwbgQI0dZQpTMG4F" version="21.0.6" type="github" pages="3">
   <diagram id="AY6Dv3qVo5Kh2lmJbm61" name="Public Runners">
-    <mxGraphModel dx="1646" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1931" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,15 +11,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="csgsG_PUNU3NyY4udR56" name="Gitlab Runners">
-    <mxGraphModel dx="2096" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2961" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="XA439F8D82tl569IwH5M-0" />
-        <mxCell id="WOPcsvirDm3JK95qN99V-2" value="Untitled Layer" parent="XA439F8D82tl569IwH5M-0" visible="0" />
+        <mxCell id="WOPcsvirDm3JK95qN99V-2" value="Untitled Layer" parent="XA439F8D82tl569IwH5M-0" />
         <mxCell id="WOPcsvirDm3JK95qN99V-3" value="" style="group;fillColor=#FFFFFF;container=0;" parent="WOPcsvirDm3JK95qN99V-2" vertex="1" connectable="0">
           <mxGeometry x="-130" width="1080" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="WOPcsvirDm3JK95qN99V-4" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;trigger&lt;br&gt;&lt;br&gt;(manual/cron/hook)&lt;br&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WOPcsvirDm3JK95qN99V-2" vertex="1">
-          <mxGeometry x="-120" y="460" width="150" height="150" as="geometry" />
+          <mxGeometry x="-970" y="260" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aWZhkJT4959_CuWmSlBU-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WOPcsvirDm3JK95qN99V-2">
+          <mxGeometry x="655" y="405" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XA439F8D82tl569IwH5M-1" style="" parent="XA439F8D82tl569IwH5M-0" />
         <mxCell id="Hj_EEyoYHTeb6UkSDG5V-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;backgroundOutline=0;" parent="XA439F8D82tl569IwH5M-1" source="WOPcsvirDm3JK95qN99V-4" target="Hj_EEyoYHTeb6UkSDG5V-73" edge="1">
@@ -217,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XFsdjkOGgHN7-_tANBv2" name="Lifecycle Hook">
-    <mxGraphModel dx="1246" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2526" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5HLy9jikS17jzSWqyToZ-0" />
         <mxCell id="5HLy9jikS17jzSWqyToZ-1" parent="5HLy9jikS17jzSWqyToZ-0" />
